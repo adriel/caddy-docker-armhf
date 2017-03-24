@@ -2,7 +2,7 @@
 
 A [Docker](http://docker.com) image for [Caddy](http://caddyserver.com). This image includes the [git](http://caddyserver.com/docs/git) plugin.  Plugins can be configured via the `plugins` build arg.
 
-A big thank you to abiosoft who made the the orignal docker image, I just modified it to run on arm.
+A big thank you to [abiosoft](https://github.com/abiosoft/caddy-docker) who made the the orignal docker image, I just modified it to run on arm.
 hhh
 #### — NOTE — 
 
