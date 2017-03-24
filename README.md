@@ -2,7 +2,9 @@
 
 A [Docker](http://docker.com) image for [Caddy](http://caddyserver.com). This image includes the [git](http://caddyserver.com/docs/git) plugin.  Plugins can be configured via the `plugins` build arg.
 
-[![](https://images.microbadger.com/badges/image/adriel/caddy.svg)](https://microbadger.com/images/adriel/caddy "Get your own image badge on microbadger.com")
+#### — NOTE — 
+
+You can't build the arm archeture on hub.docker.com, so you'll have to download this repo and build it yourself on your arm device.
 
 ## Getting Started
 
