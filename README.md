@@ -2,6 +2,8 @@
 
 A [Docker](http://docker.com) image for [Caddy](http://caddyserver.com). This image includes the [git](http://caddyserver.com/docs/git) plugin.  Plugins can be configured via the `plugins` build arg.
 
+A big thank you to abiosoft who made the the orignal docker image, I just modified it to run on arm.
+hhh
 #### — NOTE — 
 
 You can't build the arm archeture on hub.docker.com, so you'll have to download this repo and build it yourself on your arm device.
